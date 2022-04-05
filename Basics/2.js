@@ -3,6 +3,7 @@
 
 function myFunction(a, b) {
     // Neste caso, é só usar o operador de estrita igualdade (===)
+    // Porque retorna valores e tipos
     return a === b
 }
 
